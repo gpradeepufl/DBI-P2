@@ -1,0 +1,21 @@
+[color]
+    ui = auto
+    status = auto
+    branch = auto
+[core]
+    editor = vim
+[alias]
+    co = checkout
+    br = branch
+    st = status
+    difftool = meld
+#[diff]
+#    Tool = diffuse
+[difftool]
+    external = meld
+    prompt = false
+[credential]
+	helper = cache
+[user]
+	email = gpradeepufl@users.noreply.github.com
+	name = gpradeepufl
