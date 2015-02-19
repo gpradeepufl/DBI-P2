@@ -1,0 +1,5 @@
+test.cc:13:	dbfile.Open (rel->path ());
+test.cc:14:	cout << " producer: opened DBFile " << rel->path () << endl;
+test.cc:41:		sprintf (outfile, "%s.bigq", rel->path ());
+test.cc:64:			last->Print (rel->schema ());
+test.cc:89:	rel->get_sort_order (sortorder);
